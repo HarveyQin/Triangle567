@@ -1,2 +1,4 @@
 # Triangle567
 Assignmnet 2 for SSW-567
+
+[![build status of master](https://travis-ci.org/tsmith567/Triangle567.svg?branch=main)](https://travis-ci.org/HarveyQin/Triangle567)
